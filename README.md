@@ -1,0 +1,2 @@
+# SecReactSelector
+一个基于jQuery，支持ajax取值/设置值的万能二级联动选择器控件，可自动监听ajax并在成功接收数据后设置选择器值
